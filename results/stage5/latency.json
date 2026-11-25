@@ -1,0 +1,1 @@
+{"tools": {"LLM Guard": "reimplementation of llm_guard InvisibleText (Cf/Co/Cn)", "UTS39 skeleton": "confusables.txt 18.0.0 (6712 ta juft)", "Unidecode": "unidecode 1.4.0"}, "san_ms": 0.8041527593346779, "sant_ms": 1.0095508797291182, "n_unique": 38062, "device": "cuda"}
