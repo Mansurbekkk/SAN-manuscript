@@ -1,0 +1,10 @@
+{
+ "llm": "Qwen/Qwen2.5-7B-Instruct",
+ "san_ms": 1.0235583782196045,
+ "sant_ms": 1.302734613418579,
+ "lg_ms": 0.057359933853149414,
+ "protectai_v2_cuda_ms": 24.54949975013733,
+ "protectai_v2_cpu_ms": 291.13162994384766,
+ "piguard_cuda_ms": 24.52918291091919,
+ "piguard_cpu_ms": 295.8180809020996
+}
